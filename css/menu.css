@@ -32,7 +32,7 @@ h1 {
 }
 
 h1 a {
-  color: #2c2ec1;
+  color: #0c45f0;
   font-size: 16px;
 }
 
@@ -79,9 +79,9 @@ h1 a {
   font-size: 16px;
 }
 
-.accordion li.open .link { color: #3b47b6; }
+.accordion li.open .link { color: #0c45f0; }
 
-.accordion li.open i { color: #4d3bb6; }
+.accordion li.open i { color: #0c45f0; }
 
 .accordion li.open i.fa-chevron-down {
   -webkit-transform: rotate(180deg);
@@ -115,6 +115,6 @@ h1 a {
 }
 
 .submenu a:hover {
-  background: #3b3bb6;
+  background: #0c45f0;
   color: #FFF;
 }
